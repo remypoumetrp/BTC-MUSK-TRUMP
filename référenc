@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Trump, Bitcoin et Elon Musk - Analyse et actualités</title>
+  <meta name="description" content="Découvrez comment Trump, Bitcoin et Elon Musk influencent l'actualité mondiale. Analyses, tendances et impact sur la politique et les cryptomonnaies.">
+  <meta name="keywords" content="Trump, Bitcoin, Elon Musk, crypto, actualité, politique, tendances">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #0077cc;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+      background: white;
+    }
+    h1, h2 {
+      color: #0077cc;
+    }
+    footer {
+      background: #eee;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Trump, Bitcoin et Elon Musk</h1>
+    <p>Les trois phénomènes qui façonnent l’actualité mondiale</p>
+  </header>
+
+  <main>
+    <h2>Trump et sa vision des cryptomonnaies</h2>
+    <p>L’ancien président Donald <strong>Trump</strong> a plusieurs fois exprimé son opinion sur le <strong>Bitcoin</strong> et les autres cryptomonnaies. Ses positions politiques influencent les régulations et les décisions économiques dans le monde entier.</p>
+
+    <h2>Elon Musk et l’impact sur le Bitcoin</h2>
+    <p><strong>Elon Musk</strong>, PDG de Tesla et de SpaceX, est connu pour ses tweets capables de faire varier le prix du <strong>Bitcoin</strong> en quelques heures. Son influence dans le domaine des cryptomonnaies reste très importante.</p>
+
+    <h2>Trump, Bitcoin et Elon Musk : un trio qui attire l’attention</h2>
+    <p>L’association des noms <strong>Trump</strong>, <strong>Bitcoin</strong> et <strong>Elon Musk</strong> montre à quel point ces trois sujets sont liés dans l’imaginaire collectif : politique, innovation et spéculation. Suivre leur évolution, c’est comprendre une partie de l’actualité mondiale.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 - Mon site sur Trump, Bitcoin et Elon Musk</p>
+  </footer>
+</body>
+</html>
